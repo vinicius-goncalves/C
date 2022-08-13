@@ -3,7 +3,7 @@
 
 void main() {
 	
-	char* games[3][2];
+	char *games[3][2];
 	
 	//Action
 	games[0][0] = "Grand Theft Auto V";

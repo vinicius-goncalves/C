@@ -1,6 +1,6 @@
 [Project]
-filename=arrays.dev
-name=arrays
+filename=variables-study001.dev
+name=Project1
 Type=1
 Ver=2
 ObjFiles=
@@ -12,7 +12,7 @@ MakeIncludes=
 Compiler=
 CppCompiler=
 Linker=
-IsCpp=0
+IsCpp=1
 Icon=
 ExeOutput=
 ObjectOutput=
@@ -52,7 +52,7 @@ SyncProduct=1
 
 [Unit1]
 FileName=main.c
-CompileCpp=0
+CompileCpp=1
 Folder=
 Compile=1
 Link=1
